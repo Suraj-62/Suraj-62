@@ -39,5 +39,12 @@ I am a passionate **Full Stack Developer** dedicated to solving real-world probl
 ### 🤝 Connect with me:
 <div align="center">
   <a href="https://github.com/Suraj-62"><img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://leetcode.com/u/mishra96/"><img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" /></a>
   <a href="#"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+</div>
+
+<br />
+
+<div align="center">
+  <img src="https://leetcode-stats-six.vercel.app/?username=mishra96&theme=dark" alt="LeetCode Stats" />
 </div>
